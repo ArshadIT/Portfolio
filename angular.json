@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "arshad-profile"
+    }
+  },
+  "defaultProject": "arshad-profile",
+  "cli": {
+    "analytics": "cc3e3cd9-7418-41f2-94bd-50d380c6a490"
+  }
 }
