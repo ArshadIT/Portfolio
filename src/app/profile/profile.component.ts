@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { NgxSpinnerService } from '../../../node_modules/ngx-spinner';
 
 @Component({
   selector: 'app-profile',
